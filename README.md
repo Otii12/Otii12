@@ -17,7 +17,7 @@ Investigated infected host 192.168.3.35 - Classified as True Positive Multi-stag
 **📄 Artifacts:** Suricata, Zeek, PCAP, Timeline, IOC Blocklist
 **🛠️ Seeking:** IT Support / ICT Internship / SOC Tier 1 roles in Nairobi
 
-**Connect:** www.linkedin.com/in/stephen-otiende-318760233
+**Connect:** https://www.linkedin.com/in/stephen-otiende-318760233
 
 <!--
 **Otii12/Otii12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
